@@ -43,3 +43,4 @@ cmake-build-*/
 .ipynb_checkpoints/
 node_modules/
 .env
+*.log
