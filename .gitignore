@@ -31,3 +31,15 @@ build/
 
 ### VS Code ###
 .vscode/
+# Fichiers d'IDE et de build
+.idea/
+.DS_Store
+*.class
+*.o
+*.exe
+__pycache__/
+*.pyc
+cmake-build-*/
+.ipynb_checkpoints/
+node_modules/
+.env
